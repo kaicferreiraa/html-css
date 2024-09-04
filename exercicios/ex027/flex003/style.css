@@ -1,0 +1,10 @@
+div.conteiner{
+    background-color: lightsalmon;
+    display: flex;
+}
+
+div.item{
+    background-color: lightskyblue;
+    border: 1px solid black;
+    flex: auto;
+}
