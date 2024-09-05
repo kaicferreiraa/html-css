@@ -1,10 +1,15 @@
 div.conteiner{
     background-color: lightsalmon;
     display: flex;
+    height: 300px;
+    justify-content: space-around;
+    flex-flow: row nowrap;
+    align-items: stretch;
 }
 
 div.item{
     background-color: lightskyblue;
     border: 1px solid black;
-    flex: auto;
+    text-align: center;
+
 }
